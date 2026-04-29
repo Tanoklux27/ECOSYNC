@@ -1,0 +1,6 @@
+{
+  "name": "EcoSync",
+  "description": "A smart resource management dashboard for tracking energy and water efficiency, managing automations, and optimizing home utility consumption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
